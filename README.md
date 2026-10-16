@@ -30,7 +30,7 @@ Le tableau de bord suit 5 indicateurs opérationnels et financiers majeurs :
 | **Average Price** | **184,40 $** | Prix unitaire moyen d'un article vendu. |
 | **Distinct Orders** | **178,44 K** | Nombre total de commandes uniques finalisées. |
 | **Units Per Order (UPO)** | **1,17** | Ratio d'articles par commande (achats très majoritairement unitaires avec un faible niveau de vente croisée). |
-| **Average Order Value (AOV)** | **~193,30 $** \vert{} Panier moyen par commande (34,49 M$ / 178,44 K commandes). |
+| **Average Order Value (AOV)** | **~193,30 $** | Panier moyen par commande (34,49 M$ / 178,44 K commandes). |
 
 ---
 
