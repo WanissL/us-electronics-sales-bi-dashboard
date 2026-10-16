@@ -54,6 +54,8 @@ Le tableau de bord suit 5 indicateurs opérationnels et financiers majeurs :
   * Pic du soir : **19h00 – 20h00** (~14,5 K commandes / 2,41 M$ de CA).
 * Les commandes chutent fortement entre 01h00 et 06h00 (< 1,5 K commandes/heure), confirmant que les campagnes promotionnelles et l'engagement client sont optimaux durant la pause déjeuner et après la journée de travail.
 
+![Analyse horaire et dynamique des commandes](images/dashboard_overview_2.png)
+
 ---
 
 ## 4. Architecture technique & Méthodologie
