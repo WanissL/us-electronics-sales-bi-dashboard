@@ -1,4 +1,4 @@
-# Distribution Retail — Tableau de bord décisionnel & Performance des ventes
+# Distribution Retail - Tableau de bord décisionnel & Performance des ventes
 
 Tableau de bord interactif Power BI conçu pour analyser la performance commerciale et financière des ventes de matériel électronique aux États-Unis. Le projet suit l'évolution du chiffre d'affaires, la saisonnalité, le panier moyen client et la répartition géographique sur 9 grandes métropoles.
 
